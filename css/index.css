@@ -13,6 +13,11 @@ h6 {
 
 a {
 	text-decoration: none;
+	color: #1c4ba0;
+}
+
+a:hover {
+	color: #003281;
 }
 
 .site {
