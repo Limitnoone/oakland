@@ -17,7 +17,15 @@ a {
 }
 
 a:hover {
-	color: #003281;
+	color: #4769c4;
+}
+
+.button.button-primary {
+	background-color: #1c4ba0;
+}
+
+.button.button-primary:hover {
+	background-color: #4769c4;
 }
 
 .site {
