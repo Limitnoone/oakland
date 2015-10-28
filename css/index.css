@@ -20,6 +20,10 @@ a:hover {
 	color: #4769c4;
 }
 
+.button {
+	border: none;
+}
+
 .button.button-primary {
 	background-color: #1c4ba0;
 }
