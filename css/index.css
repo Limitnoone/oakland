@@ -22,6 +22,7 @@ a:hover {
 
 .button {
 	border: none;
+	text-transform: none;
 }
 
 .button.button-primary {
@@ -30,6 +31,13 @@ a:hover {
 
 .button.button-primary:hover {
 	background-color: #4769c4;
+}
+
+.button.button-large {
+	font-size: 150%;
+	line-height: 50px;
+	height: 50px;
+	padding: 0 40px;
 }
 
 .site {
